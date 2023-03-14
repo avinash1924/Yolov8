@@ -17,4 +17,5 @@ PROJECTS IN THIS REPO
 
 
 3.PEOPLE COUNTER USING YOLOV8
+
 ![](https://github.com/avinash1924/Yolov8/blob/main/Videos/people%20counter.gif)
